@@ -20,6 +20,12 @@ nav li {
     margin: 2.5%;
 }
 
-h1 {
-    
+nav a {
+    text-decoration: none;
+    color: #000;
+    display: block;
+}
+
+nav a:hover {
+    color: #4a4a4f;
 }
