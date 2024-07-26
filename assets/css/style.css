@@ -29,7 +29,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
     display: block;
 }
 
@@ -55,10 +55,16 @@ footer li {
 
 footer a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
     display: block;
 }
 
 footer a:hover {
     color: #4a4a4f;
+}
+
+footer p {
+    margin: 15px 0 15px 0;
+    color: #fff;
+    
 }
