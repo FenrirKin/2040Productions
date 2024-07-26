@@ -37,6 +37,12 @@ nav a:hover {
     color: #4a4a4f;
 }
 
+section {
+    width: 66%;
+    height: 66%;
+
+}
+
 footer {
     list-style: none;
     background-color: #8D4141;
@@ -66,5 +72,5 @@ footer a:hover {
 footer p {
     margin: 15px 0 15px 0;
     color: #fff;
-    
+
 }
