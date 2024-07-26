@@ -11,6 +11,11 @@ body {
   font-style: normal;
 }
 
+header {
+    height: 150px;
+
+}
+
 nav ul {
     list-style: none;
     background-color: #8D4141;
@@ -47,6 +52,7 @@ footer {
     list-style: none;
     background-color: #8D4141;
     text-align: center;
+    height: 150px;
     padding: 0;
     margin: 0;
 }
