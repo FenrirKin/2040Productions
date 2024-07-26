@@ -4,6 +4,13 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
+.oswald-main {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
 nav ul {
     list-style: none;
     background-color: #8D4141;
