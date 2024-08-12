@@ -51,14 +51,14 @@ nav a:hover {
 
 #enka {
     float: right;
-    display: inline-block
+    display: block
 }
 
 .socials {
     list-style: none;
     background-color: #000;
     text-align: center;
-    height: 150px;
+    height: auto;
     padding: 0;
     margin: 0;
 }
