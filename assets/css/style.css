@@ -45,9 +45,12 @@ nav a:hover {
 }
 
 section {
-    width: 66%;
-    height: 66%;
+    width: auto;
 
+}
+
+#enka {
+    float: right;
 }
 
 .socials {
