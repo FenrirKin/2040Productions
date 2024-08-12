@@ -44,13 +44,14 @@ nav a:hover {
     color: #8d4141;
 }
 
-section {
+#about {
     width: auto;
-
+    display: inline-block;
 }
 
 #enka {
     float: right;
+    display: inline-block
 }
 
 .socials {
