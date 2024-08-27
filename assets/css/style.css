@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    height: 150px;
+    height: auto;
 
 }
 
@@ -52,6 +52,10 @@ nav a:hover {
 #enka {
     float: right;
     display: block
+}
+
+.article {
+    margin: 10px 0 10px 0;
 }
 
 .socials {
