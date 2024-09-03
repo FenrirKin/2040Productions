@@ -62,7 +62,23 @@ nav a:hover {
     margin: 10px 0 10px 0;
 }
 
-#carouselExample {
+#carousel1 {
+    width: 75%;
+    height: auto;
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+}
+
+#carousel2 {
+    width: 75%;
+    height: auto;
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+}
+
+#carousel3 {
     width: 75%;
     height: auto;
     margin: 2px;
