@@ -67,6 +67,15 @@ nav a:hover {
     height: auto;
     margin: 2px;
     padding: 10px;
+    display: block;
+}
+
+.shard {
+    width: 75%;
+    height: auto;
+    margin: 2px;
+    padding: 10px;
+    display: block;
 }
 
 .socials {
