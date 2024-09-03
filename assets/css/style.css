@@ -55,7 +55,7 @@ nav a:hover {
 
 #enka {
     float: right;
-    display: inline-block;
+    display: block;
 }
 
 .article {
