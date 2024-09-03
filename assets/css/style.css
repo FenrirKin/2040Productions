@@ -62,23 +62,7 @@ nav a:hover {
     margin: 10px 0 10px 0;
 }
 
-.sitb {
-    width: 75%;
-    height: auto;
-    margin: 2px;
-    padding: 10px;
-    text-align: center;
-}
-
-.shard {
-    width: 75%;
-    height: auto;
-    margin: 2px;
-    padding: 10px;
-    text-align: center;
-}
-
-.misc {
+#carouselExample {
     width: 75%;
     height: auto;
     margin: 2px;
@@ -87,7 +71,7 @@ nav a:hover {
 }
 
 .summary {
-    font-size: 1.75rem;
+    font-size: 1.15rem;
     margin: 10px 0 10px 0;
     padding: 2px;
 }
