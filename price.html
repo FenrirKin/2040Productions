@@ -25,18 +25,26 @@
     </header>
         <div>
             <h2>Interested in some artwork of your own?</h2>
-        <img src="assets/images/advert2024.jpg">
+        <img src="assets/images/advert2024.jpg" class="img-fluid" alt="The pricing structure for commissions with examples">
+        </div>
+        <form action="/submissionsuccess.html" target="_self" novalidate>
+        <div class="mb3">
+            <label for="fname">First name:</label><br>
+            <input type="text" id="fname" name="fname" placeholder="John"><br>
+            <label for="lname">Last name:</label><br>
+            <input type="text" id="lname" name="lname" placeholder="Doe"><br><br>
         </div>
         <div class="mb-3">
             <label for="exampleFormControlInput1" class="form-label">Email address</label>
-            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-          </div>
-          <div class="mb-3">
-            <label for="exampleFormControlTextarea1" class="form-label">Tell me what you'd like:</label>
+            <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com" required>
+        </div>
+        <div class="mb-3">
+                <label for="exampleFormControlTextarea1" class="form-label">Tell me what you'd like:</label>
             <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
             <input class="btn btn-primary" type="submit" value="Submit">
             <input class="btn btn-primary" type="reset" value="Reset">
-          </div>
+        </div>
+        </form>
           
     <footer class="socials">
         
