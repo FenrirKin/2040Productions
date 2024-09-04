@@ -12,7 +12,8 @@ header {
 
 .title {
     margin: 0 10px 0 10px;
-    font-size: x-large;
+    font-size: xx-large;
+    font-weight:bold;
     text-align: center;
 }
 
