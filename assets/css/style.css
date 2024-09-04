@@ -57,6 +57,8 @@ section {
 
 #enka {
     float: right;
+    position: relative;
+    left: auto;
 }
 
 .article {
