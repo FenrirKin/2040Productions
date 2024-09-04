@@ -1,6 +1,6 @@
 body { 
-    margin: 20;
-    padding: 20;
+    margin: 20px;
+    padding: 20px;
     
 }
 
@@ -62,7 +62,7 @@ nav a:hover {
     margin: 10px 0 10px 0;
 }
 
-.carousel1, .carousel2, .carousel3 {
+.carousellook {
     width: 75%;
     height: auto;
     margin: 2px;
@@ -74,6 +74,7 @@ nav a:hover {
     font-size: 1.15rem;
     margin: 10px 0 10px 0;
     padding: 2px;
+    text-align: left;
 }
 
 .socials {
