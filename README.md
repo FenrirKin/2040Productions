@@ -11,7 +11,7 @@ The target audience is anyone with an interest in artwork, specifically anime an
 
 ---
 
-[screenshot](documentation/amiresponsive1.png)
+![screenshot](documentation/amiresponsive1.png)
 
 source: [amiresponsive](https://ui.dev/amiresponsive?url=https://fenrirkin.github.io/2040Productions)
 
@@ -61,19 +61,19 @@ I also used [Font Awesome](https://fontawesome.com) icons for the social media i
 
     I used black as the background and white as the main font color for contrast, and used a specific shade of red for the hover colour as a nod to the start of my partner's journey in art. 
 
-[Screenshot](documentation/nav.png)
+![screenshot](documentation/nav.png)
 
 - **Gallery**
 
     - To keep the site as simple as possible, I opted to divide the gallery into 3 categories of art, and use a carousel in each category to display 2 or 3 images from each. The first two carousels were to showcase Enka's original creations, while the third carousel demonstrated his flexibility with previous commissions he's worked on for others. I opted for a carousel rather than a static gallery of multiple images as I felt it would be visually less overwhelming for site users. 
 
-[Screenshot](documentation/gallery.png)
+![Screenshot](documentation/gallery.png)
 
 - **Commission form**
 
     - As artwork can be so variable, I decided that the contact form would work best if it was just contact details and a freeform text section. Currently it redirects just to a separate success page, with no information being retained, but in future I hope to direct all queries submitted through it to an email address. 
 
-[Screenshot](documentation/form.png)
+![Screenshot](documentation/form.png)
 
 ### Future Features
 
@@ -97,7 +97,37 @@ I also used [Font Awesome](https://fontawesome.com) icons for the social media i
 
 ## Testing
 
-> For all testing, please refer to the [TESTING.md](TESTING.md) file.
+## Code Validation
+
+### HTML
+
+I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
+
+| Directory | File | Screenshot | Notes |
+| --- | --- | --- | --- |
+|  | 404.html | ![screenshot](documentation/404check.png) | |
+|  | gallery.html | ![screenshot](documentation/gallerycheck.png) | |
+|  | index.html | ![screenshot](documentation/indexcheck.png) | |
+|  | price.html | ![screenshot](documentation/pricecheck.png) | |
+|  | submissionsuccess.html | ![screenshot](documentation/formcheck.png) | |
+
+### CSS
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+| Directory | File | Screenshot | Notes |
+| --- | --- | --- | --- |
+| assets | style.css | ![screenshot](documentation/csscheck.png) | |
+
+## Browser Compatibility
+
+I've tested my deployed project on multiple browsers to check for compatibility issues.
+
+| Browser | Home | About | Contact | etc | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Chrome | ![screenshot](documentation/chromecheck.png) | Works as expected |
+| Firefox | ![screenshot](documentation/firefoxcheck.png) | Works as expected |
+| Edge | ![screenshot](documentation/edgecheck.png) | Works as expected |
 
 ## Deployment
 
