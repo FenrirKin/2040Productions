@@ -117,7 +117,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-| assets | style.css | ![screenshot](documentation/csscheck.png) | |
+| assets | style.css | ![screenshot](documentation/css.png) | |
 
 ## Browser Compatibility
 
